@@ -1,0 +1,3 @@
+/Users/cole/Desktop/DRIVE/CLASE/PROGRAMACIÓN/TEMA 3/Boletin 5/Boletin 5 Israel Sanchez Fuentes/Ej3/cmake-build-debug/CMakeFiles/Ej3.dir
+/Users/cole/Desktop/DRIVE/CLASE/PROGRAMACIÓN/TEMA 3/Boletin 5/Boletin 5 Israel Sanchez Fuentes/Ej3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cole/Desktop/DRIVE/CLASE/PROGRAMACIÓN/TEMA 3/Boletin 5/Boletin 5 Israel Sanchez Fuentes/Ej3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
